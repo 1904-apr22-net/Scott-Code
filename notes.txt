@@ -2,3 +2,10 @@ git add <path>
     stage all local changes to any files/folders at/under that path
     usually: "git add ." from the top level repo folder
     (becuase "." in bash means, the current directory)
+git add .
+    adds everything in current repository 
+git commit
+    commits what was just added to local repository 
+    git commit -m "" ( allows you add a comment on the addition)
+git push
+    pushes local repository to github
